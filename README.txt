@@ -6,6 +6,7 @@
   Stack   : Python 3.9+ | Pandas | Jupyter | Chart.js
   Context : Academic portfolio project
 
+![Aperçu du Dashboard](screenshot.png)
   [ English version below / Version française plus bas ]
 
 --------------------------------------------------------------------------------
