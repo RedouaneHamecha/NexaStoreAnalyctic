@@ -63,16 +63,15 @@ The architecture automates the full data lifecycle: from ingestion and normaliza
   jupyter notebook NotebookAnalyctic.ipynb
 
   To view the dashboard without running any code:
-  -> Simply open DashboardNexaStore.html in your browser.
+  -> Simply open         **[DashboardNexaStore](https://redouanehamecha.github.io/NexaStoreAnalyctic/)**
 
 --------------------------------------------------------------------------------
   LINKS
 --------------------------------------------------------------------------------
 
- **[Visual](https://redouanehamecha.github.io/NexaStoreAnalyctic/)** | **[GitHub Repository](https://github.com/RedouaneHamecha/NexaStoreAnalyctic)**
+ **[GitHub Repository](https://github.com/RedouaneHamecha/NexaStoreAnalyctic)**
 
-================================================================================
-================================================================================
+=============================================
   NEXASTORE ANALYTICS — Audit E-commerce & Dashboard          [ VERSION FR ]
 ================================================================================
 
@@ -131,12 +130,12 @@ L'architecture du projet automatise le cycle de vie de la donnée : de l'ingesti
   jupyter notebook NotebookAnalyctic.ipynb
 
   Pour consulter le dashboard sans exécuter de code :
-  -> Ouvrir directement DashboardNexaStore.html dans votre navigateur.
+  -> Ouvrir directement **[DashboardNexaStore](https://redouanehamecha.github.io/NexaStoreAnalyctic/)**
 
 --------------------------------------------------------------------------------
   LIENS
 --------------------------------------------------------------------------------
 
-**[Visual](https://redouanehamecha.github.io/NexaStoreAnalyctic/)** | **[GitHub Repository](https://github.com/RedouaneHamecha/NexaStoreAnalyctic)**
+  **[GitHub Repository](https://github.com/RedouaneHamecha/NexaStoreAnalyctic)**
 
 ================================================================================
